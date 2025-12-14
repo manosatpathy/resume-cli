@@ -1,0 +1,23 @@
+{
+  "name": "manosatpathy",
+  "version": "1.0.1",
+  "description": "My resume package",
+  "keywords": [
+    "resume",
+    "resumePackage"
+  ],
+  "license": "ISC",
+  "author": "mano satpathy",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "manosatpathy": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.6.2"
+  }
+}
